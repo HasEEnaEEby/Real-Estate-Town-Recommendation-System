@@ -42,7 +42,8 @@ This project walks through a complete data science pipeline:
 
 📄 Click below to view the complete report with visualizations, data cleaning process, modeling insights, and final rankings:
 
-👉 [**Download PDF Report**](./Datascience_TownRecommendation_top10_1724228537090.pdf)
+👉 [**Download PDF Report**]([Datascience_TownRecommendation_top10_1724228537090.pdf](https://github.com/user-attachments/files/19627698/Datascience_TownRecommendation_top10_1724228537090.pdf)
+)
 
 ---
 
